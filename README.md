@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Cover](/cover.svg)
+![Cover](https://raw.githubusercontent.com/darkmatter18/darkmatter18/master/cover.svg)
 
