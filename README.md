@@ -12,6 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2>Namaste🙏🏻, I'm Arkadip Bhattacharya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Studying Computer Science and Engineering at <a href="http://gcettb.ac.in">GCETTB</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-![Cover](https://raw.githubusercontent.com/darkmatter18/darkmatter18/master/cover.svg)
+![Twitter Follow](https://img.shields.io/twitter/follow/Arkadipb21?label=Follow)
+![GitHub followers](https://img.shields.io/github/followers/darkmatter18?label=Follow&style=social)
 
+![Arkadip's Github Stats](https://github-readme-stats.vercel.app/api?username=darkmatter18&show_icons=true)
