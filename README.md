@@ -12,7 +12,9 @@
 const arkadip = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "PHP", "C++"],
-    askMeAbout: ["web dev", "Machine Learning", "Deep Learning", "Computer Vision", "Photography"],
+    askMeAbout: ["web dev", "Machine Learning", 
+                 "Deep Learning", "Computer Vision", 
+                 "Photography"],
     technologies: {
         frontEnd: {
             js: ["React", "Gatsby"],
@@ -28,8 +30,8 @@ const arkadip = {
         devOps: ["AWS", "GCP"],
         misc: ["Firebase"]
     },
-    currentFocus: "Preparing for Graduate Aptitude Test in Engineering 2022",
-    pledgefor2021: "Completing 100 projects"
+    currentFocus: "Preparing for Graduate Aptitude Test in Engineering(GATE) 2022",
+    pledgefor2021: "Completing 100 projects",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
