@@ -7,11 +7,36 @@
 <p><em>Studying Computer Science and Engineering at <a href="http://gcettb.ac.in">GCETTB</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-- 🔭 I’m currently working on Genareting High Resolution under water images application using Pytorch
-- 🌱 I’m currently learning Algorithms and DevOps
-- 👯 I’m looking to collaborate on JavaScript and Python based Machine Learning and Web Development Projects
-- 💬 Ask me about anything. I will try to help you as much as I can.
-- 📫 How to reach me: 
+***A Little more about me***
+```js
+const arkadip = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python", "PHP", "C++"],
+    askMeAbout: ["web dev", "Machine Learning", "Deep Learning", "Computer Vision", "Photography"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Gatsby"],
+            css: ["Material UI", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+            python: ["flask"],
+            php: ["Slim"]
+        },
+        databases: ["MongoDB", "MySql", "PostgreSQL", "sqlite"],
+        machineLearning: ["PyTorch", "pandas", "numpy", "openCV"],
+        devOps: ["AWS", "GCP"],
+        misc: ["Firebase"]
+    },
+    currentFocus: "Preparing for Graduate Aptitude Test in Engineering 2022",
+    pledgefor2021: "Completing 100 projects"
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+***Ask me about anything. I will try to help you as much as I can.***
+
+***📫 How to reach me:***
 
 | [<img src="https://raw.githubusercontent.com/darkmatter18/darkmatter18/master/gihub.png" alt="github logo" width="34">](https://github.com/darkmatter18) |  [<img src="https://raw.githubusercontent.com/darkmatter18/darkmatter18/master/twitter.svg" alt="twitter logo" width="34">](https://twitter.com/ArkadipB21) |  [<img src="https://raw.githubusercontent.com/darkmatter18/darkmatter18/master/linkedin.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/arkadip) |  [<img src="https://raw.githubusercontent.com/darkmatter18/darkmatter18/master/gmail.jpeg" alt="gmail logo" width="24">](mailto:in2arkadipb13@gmail.com)
 |---|---|---|---|
