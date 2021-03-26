@@ -37,7 +37,8 @@ const arkadip = {
     },
     currentFocus: "Preparing for Graduate Aptitude Test in Engineering(GATE) 2022",
     pledgefor2021: "Completing 100 projects",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "There are two ways to write error-free programs; 
+              only the third one works"
 };
 ```
 
