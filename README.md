@@ -7,6 +7,11 @@
 <p><em>Studying Computer Science and Engineering at <a href="http://gcettb.ac.in">GCETTB</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+***Let me introduce myself*** 👇
+```bash
+npx arkadip
+```
+
 ***A Little more about me***
 ```js
 const arkadip = {
