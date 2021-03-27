@@ -3,6 +3,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Arkadipb21?label=Follow)
 ![GitHub followers](https://img.shields.io/github/followers/darkmatter18?label=Follow&style=social)
+[![My Website](https://img.shields.io/badge/My-Website-green?style=flat&logo=google-chrome)](https://www.arkadip.me)
 
 <p><em>Studying Computer Science and Engineering at <a href="http://gcettb.ac.in">GCETTB</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
