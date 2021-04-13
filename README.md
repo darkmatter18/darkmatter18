@@ -10,7 +10,7 @@
 
 ***Let me introduce myself*** 👇
 ```bash
-npx arkadip
+> npx arkadip
 ```
 
 ***A Little more about me***
