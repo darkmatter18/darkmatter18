@@ -51,3 +51,4 @@ const arkadip = {
 |---|---|---|---|
 
 ![Arkadip's Github Stats](https://github-readme-stats.vercel.app/api?username=darkmatter18&show_icons=true)
+![Arkadip's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=darkmatter18&layout=compact&langs_count=10")
