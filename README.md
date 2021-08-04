@@ -5,8 +5,13 @@
 ![GitHub followers](https://img.shields.io/github/followers/darkmatter18?label=Follow&style=social)
 [![My Website](https://img.shields.io/badge/My-Website-green?style=flat&logo=google-chrome)](https://www.arkadip.me)
 
-<p><em>Studying Computer Science and Engineering at <a href="http://gcettb.ac.in">GCETTB</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p>
+    <em>
+        Computer Science and Engineer (Bachelor in Technology)<br/>
+        Formal Front End Engineer Intern at Digité Inc.
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+    </em>
+</p>
 
 ***Let me introduce myself*** 👇
 ```bash
