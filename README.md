@@ -22,23 +22,28 @@
 ```js
 const arkadip = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "PHP", "C++"],
-    askMeAbout: ["web dev", "Machine Learning", 
-                 "Deep Learning", "Computer Vision", 
+    web: "https://www.arkadip.me",
+    position: "Trainee Engineer at Digite Inc.",
+    code: ["Python", "Javascript", "Typescript", "PHP", "Java", "C++"],
+    askMeAbout: ["Backend", "DevOps", "CI/CD"m "web dev", 
+                 "Machine Learning", "Deep Learning", "Computer Vision", 
                  "Photography"],
     technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["FastAPI", "Django", "Flask"],
+            php: ["Slim"]
+        },
+        devOps: ["Microsoft Azure", 
+                 "Google Cloud Platform (GCP)",
+                 "Amazon Web Services (AWS)"
+        ],
         frontEnd: {
             js: ["React", "Gatsby"],
-            css: ["Material UI", "bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express"],
-            python: ["flask"],
-            php: ["Slim"]
+            css: ["Tailwind CSS", "Material UI", "bootstrap"]
         },
         databases: ["MongoDB", "MySql", "PostgreSQL", "sqlite"],
         machineLearning: ["PyTorch", "pandas", "numpy", "openCV"],
-        devOps: ["AWS", "GCP"],
         misc: ["Firebase"]
     },
     currentFocus: "Preparing for Graduate Aptitude Test in Engineering(GATE) 2022",
