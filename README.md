@@ -46,8 +46,7 @@ const arkadip = {
         machineLearning: ["PyTorch", "pandas", "numpy", "openCV"],
         misc: ["Firebase"]
     },
-    currentFocus: "Preparing for Graduate Aptitude Test in Engineering(GATE) 2022",
-    pledgefor2021: "Completing 100 projects",
+    pledgefor2022: "Learn DevOps and Cloud Computing",
     funFact: "There are two ways to write error-free programs; 
               only the third one works"
 };
