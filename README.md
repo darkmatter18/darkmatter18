@@ -25,19 +25,21 @@ const arkadip = {
     web: "https://www.arkadip.me",
     position: "Trainee Engineer at Digite Inc.",
     code: ["Python", "Javascript", "Typescript", "PHP", "Java", "C++"],
-    askMeAbout: ["Backend", "DevOps", "CI/CD"m "web dev", 
+    specializationIn: ["Kubernetes", "Cloud Computing", "Micro Services", "Web Backend", "Docker"],
+    askMeAbout: ["Backend", "DevOps", "CI/CD", "web dev", 
                  "Machine Learning", "Deep Learning", "Computer Vision", 
                  "Photography"],
     technologies: {
+        devOps: ["Kubernetes", "Event-Driven Architecture", "Serverless", 
+                 "Microsoft Azure", 
+                 "Google Cloud Platform (GCP)",
+                 "Amazon Web Services (AWS)"
+        ],
         backEnd: {
             js: ["Node", "Express"],
             python: ["FastAPI", "Django", "Flask"],
             php: ["Slim"]
         },
-        devOps: ["Microsoft Azure", 
-                 "Google Cloud Platform (GCP)",
-                 "Amazon Web Services (AWS)"
-        ],
         frontEnd: {
             js: ["React", "Gatsby"],
             css: ["Tailwind CSS", "Material UI", "bootstrap"]
