@@ -3,7 +3,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Arkadipb21?label=Follow)
 ![GitHub followers](https://img.shields.io/github/followers/darkmatter18?label=Follow&style=social)
-[![My Website](https://img.shields.io/badge/My-Website-green?style=flat&logo=google-chrome)](https://www.arkadip.me)
+[![My Website](https://img.shields.io/badge/My-Website-green?style=flat&logo=google-chrome)](https://www.arkadip.dev)
 
 <p>
     <em>
@@ -22,7 +22,7 @@
 ```js
 const arkadip = {
     pronouns: "He" | "Him",
-    web: "https://www.arkadip.me",
+    web: "https://www.arkadip.dev",
     position: "Trainee Engineer at Digite Inc.",
     code: ["Python", "Javascript", "Typescript", "PHP", "Java", "C++"],
     specializationIn: ["Kubernetes", "Cloud Computing", "Micro Services", "Web Backend", "Docker"],
