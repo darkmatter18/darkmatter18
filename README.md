@@ -62,5 +62,8 @@ const arkadip = {
 | [<img src="https://raw.githubusercontent.com/darkmatter18/darkmatter18/master/gihub.png" alt="github logo" width="34">](https://github.com/darkmatter18) |  [<img src="https://raw.githubusercontent.com/darkmatter18/darkmatter18/master/twitter.svg" alt="twitter logo" width="34">](https://twitter.com/ArkadipB21) |  [<img src="https://raw.githubusercontent.com/darkmatter18/darkmatter18/master/linkedin.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/arkadip) |  [<img src="https://raw.githubusercontent.com/darkmatter18/darkmatter18/master/gmail.jpeg" alt="gmail logo" width="24">](mailto:in2arkadipb13@gmail.com)
 |---|---|---|---|
 
-![Arkadip's Github Stats](https://github-readme-stats.vercel.app/api?username=darkmatter18&show_icons=true)
-![Arkadip's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=darkmatter18&layout=compact&langs_count=10")
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=darkmatter18&theme=onedark&column=-1)
+
+![Arkadip's Github Stats](https://github-readme-stats.vercel.app/api?username=darkmatter18&show_icons=true&theme=onedark)
+![Arkadip's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=darkmatter18&layout=compact&langs_count=8&theme=onedark)
