@@ -67,3 +67,5 @@ const arkadip = {
 
 ![Arkadip's Github Stats](https://github-readme-stats.vercel.app/api?username=darkmatter18&show_icons=true&theme=onedark)
 ![Arkadip's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=darkmatter18&layout=compact&langs_count=8&theme=onedark)
+
+[![@arkadip's Holopin board](https://holopin.me/arkadip)](https://holopin.io/@arkadip)
