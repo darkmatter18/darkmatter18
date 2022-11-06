@@ -1,5 +1,5 @@
 <h2>Namaste🙏🏻, I'm Arkadip Bhattacharya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<a href="https://app.daily.dev/arkadip"><img align="right" src="https://api.daily.dev/devcards/66b38f500939468a974bc350931647c2.png?r=z3h" width="300" alt="Arkadip Bhattacharya's Dev Card"/></a>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Arkadipb21?label=Follow)
 ![GitHub followers](https://img.shields.io/github/followers/darkmatter18?label=Follow&style=social)
@@ -7,8 +7,7 @@
 
 <p>
     <em>
-        Computer Science and Engineer (Bachelor in Technology)<br/>
-        Formal Front End Engineer Intern at Digité Inc.
+        I’m a software engineer specializing in building Web Backend and Cloud based Solutions. Currently, I’m focused on building accessible, Agri-tech product at Digité, Inc.
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
     </em>
 </p>
