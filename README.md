@@ -46,17 +46,19 @@ const arkadip = {
 
 ***Ask me about anything. I will try to help you as much as I can.***
 
+<a href="https://app.daily.dev/arkadip"><img align="right" src="https://github.com/darkmatter18/darkmatter18/blob/master/devcard.svg" width="300" alt="Arkadip Bhattacharya's Dev Card"/></a>
+
 ***📫 How to reach me:***
 
 | [<img src="https://raw.githubusercontent.com/darkmatter18/darkmatter18/master/gihub.png" alt="github logo" width="34">](https://github.com/darkmatter18) |  [<img src="https://raw.githubusercontent.com/darkmatter18/darkmatter18/master/twitter.svg" alt="twitter logo" width="34">](https://twitter.com/ArkadipB21) |  [<img src="https://raw.githubusercontent.com/darkmatter18/darkmatter18/master/linkedin.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/arkadip) |  [<img src="https://raw.githubusercontent.com/darkmatter18/darkmatter18/master/gmail.jpeg" alt="gmail logo" width="24">](mailto:in2arkadipb13@gmail.com)
 |---|---|---|---|
 
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=darkmatter18&theme=onedark&column=-1)
 
-<a href="https://app.daily.dev/arkadip"><img align="right" src="https://github.com/darkmatter18/darkmatter18/blob/master/devcard.svg" width="300" alt="Arkadip Bhattacharya's Dev Card"/></a>
+![Arkadip's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=darkmatter18&layout=compact&langs_count=8&theme=onedark)
 
 ![Arkadip's Github Stats](https://github-readme-stats.vercel.app/api?username=darkmatter18&show_icons=true&theme=onedark)
-![Arkadip's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=darkmatter18&layout=compact&langs_count=8&theme=onedark)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=darkmatter18&theme=onedark&column=-1)
 
 [![@arkadip's Holopin board](https://holopin.me/arkadip)](https://holopin.io/@arkadip)
