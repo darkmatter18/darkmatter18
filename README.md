@@ -1,14 +1,11 @@
 <h1>Namaste🙏🏻, I'm Arkadip Bhattacharya!</h1>
-<a href="https://app.daily.dev/arkadip"><img align="right" src="https://github.com/darkmatter18/darkmatter18/blob/master/devcard.svg" width="300" alt="Arkadip Bhattacharya's Dev Card"/></a>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Arkadipb21?label=Follow)
 ![GitHub followers](https://img.shields.io/github/followers/darkmatter18?label=Follow&style=social)
 [![My Website](https://img.shields.io/badge/My-Website-green?style=flat&logo=google-chrome)](https://www.arkadip.dev)
 
 <p>
-    <em>
-        I’m a software engineer specializing in building Web Backend and Cloud based Solutions. Currently, I’m focused on building accessible, Agri-tech product at Digité, Inc.
-    </em>
+I’m a software engineer specializing in building Web Backend and Cloud based Solutions. Currently, I’m focused on building accessible, Agri-tech product at Digité, Inc.
 </p>
 
 ***Let me introduce myself*** 👇
@@ -62,6 +59,8 @@ const arkadip = {
 
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=darkmatter18&theme=onedark&column=-1)
+
+<a href="https://app.daily.dev/arkadip"><img align="right" src="https://github.com/darkmatter18/darkmatter18/blob/master/devcard.svg" width="300" alt="Arkadip Bhattacharya's Dev Card"/></a>
 
 ![Arkadip's Github Stats](https://github-readme-stats.vercel.app/api?username=darkmatter18&show_icons=true&theme=onedark)
 ![Arkadip's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=darkmatter18&layout=compact&langs_count=8&theme=onedark)
