@@ -19,17 +19,12 @@ const arkadip = {
     pronouns: "He" | "Him",
     web: "https://www.arkadip.dev",
     position: "Trainee Engineer at Digite Inc.",
-    code: ["Python", "Javascript", "Typescript", "PHP", "Java", "C++"],
-    specializationIn: ["Kubernetes", "Cloud Computing", "Micro Services", 
-                       "Web Backend", "Docker"],
-    askMeAbout: ["Backend", "DevOps", "CI/CD", "web dev", 
-                 "Machine Learning", "Deep Learning", "Computer Vision", 
-                 "Photography"],
+    code: ["Python", "Javascript", "Typescript", "PHP",  "C++"],
+    specializationIn: ["Kubernetes", "Docker", "DevOps", "Kafka", "Cloud Computing", "MicroServices", "Web Backend"],
+    askMeAbout: ["Backend", "DevOps", "CI/CD", "web dev", "Machine Learning", "Deep Learning", "Computer Vision", "Photography"],
     technologies: {
         devOps: ["Kubernetes", "Event-Driven Architecture", "Serverless", 
-                 "Microsoft Azure", 
-                 "Google Cloud Platform (GCP)",
-                 "Amazon Web Services (AWS)"
+                 "Microsoft Azure", "Google Cloud Platform (GCP)","Amazon Web Services (AWS)"
         ],
         backEnd: {
             js: ["Node", "Express"],
@@ -45,8 +40,7 @@ const arkadip = {
         misc: ["Firebase"]
     },
     pledgefor2022: "Learn DevOps and Cloud Computing",
-    funFact: "There are two ways to write error-free programs; 
-              only the third one works"
+    funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
 
