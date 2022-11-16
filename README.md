@@ -20,8 +20,8 @@ const arkadip = {
     web: "https://www.arkadip.dev",
     position: "Trainee Engineer at Digite Inc.",
     code: ["Python", "Javascript", "Typescript", "PHP",  "C++"],
-    specializationIn: ["Kubernetes", "Docker", "DevOps", "Kafka", "Cloud Computing", "MicroServices", "Web Backend"],
-    askMeAbout: ["Backend", "DevOps", "CI/CD", "web dev", "Machine Learning", "Deep Learning", "Computer Vision", "Photography"],
+    specializationIn: ["Kubernetes", "Docker", "Kafka", "Cloud Computing", "MicroServices", "Web Backend"],
+    askMeAbout: ["Backend", "DevOps", "CI/CD", "Web Dev", "Deep Learning", "Computer Vision", "Photography"],
     technologies: {
         devOps: ["Kubernetes", "Event-Driven Architecture", "Serverless", 
                  "Microsoft Azure", "Google Cloud Platform (GCP)","Amazon Web Services (AWS)"
