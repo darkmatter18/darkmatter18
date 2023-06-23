@@ -5,7 +5,7 @@
 [![My Website](https://img.shields.io/badge/My-Website-green?style=flat&logo=google-chrome)](https://www.arkadip.dev)
 
 <p>
-I’m a software engineer specializing in building Web Backend and Cloud based Solutions. Currently, I’m focused on building accessible, Agri-tech product at Digité, Inc.
+I’m a software engineer specializing in building Web Backends and Cloud-based Solutions. Currently, I’m focused on creating accessible, Agri-tech products at Nibmelwork, Inc.
 </p>
 
 ***Let me introduce myself*** 👇
@@ -18,7 +18,7 @@ I’m a software engineer specializing in building Web Backend and Cloud based S
 const arkadip = {
     pronouns: "He" | "Him",
     web: "https://www.arkadip.dev",
-    position: "Trainee Engineer at Digite Inc.",
+    position: "Software Engineer at Nimblework Inc.(formerly Digite Inc.)",
     code: ["Python", "Javascript", "Typescript", "PHP",  "C++"],
     specializationIn: ["Kubernetes", "Docker", "Kafka", "Cloud Computing", "MicroServices", "Web Backend"],
     askMeAbout: ["Backend", "DevOps", "CI/CD", "Web Dev", "Deep Learning", "Computer Vision", "Photography"],
