@@ -18,8 +18,8 @@ I’m a software engineer specializing in building Web Backends and Cloud-based 
 const arkadip = {
     pronouns: "He" | "Him",
     web: "https://www.arkadip.dev",
-    position: "Software Engineer at Nimblework Inc.(formerly Digite Inc.)",
-    code: ["Python", "Javascript", "Typescript", "PHP",  "C++"],
+    position: "Software Engineer at Cognitree.",
+    code: ["Java", "Python", "Javascript", "Typescript", "PHP",  "C++"],
     specializationIn: ["Kubernetes", "Docker", "Kafka", "Cloud Computing", "MicroServices", "Web Backend"],
     askMeAbout: ["Backend", "DevOps", "CI/CD", "Web Dev", "Deep Learning", "Computer Vision", "Photography"],
     technologies: {
