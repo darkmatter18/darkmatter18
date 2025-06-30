@@ -5,7 +5,7 @@
 [![My Website](https://img.shields.io/badge/My-Website-green?style=flat&logo=google-chrome)](https://www.arkadip.dev)
 
 <p>
-I’m a software engineer specializing in building Web Backends and Cloud-based Solutions. Currently, I’m focused on creating accessible, Agri-tech products at Nibmelwork, Inc.
+I’m a software engineer specializing in building Web Backends and Cloud-based Solutions.
 </p>
 
 ***Let me introduce myself*** 👇
